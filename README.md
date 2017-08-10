@@ -1,0 +1,2 @@
+# AutoSizeForm
+配下のラベルに合わせて伸縮するFormのテスト
